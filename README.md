@@ -7,3 +7,4 @@
 5. Append and prepend a linked list: [append_and_prepend_ll.c](https://github.com/ColonelBee/C-coding/blob/main/append_and_prepend_ll.c)
 6. Delete a node in a linked list: [delete_node_ll.c](https://github.com/ColonelBee/C-coding/blob/main/delete_node_ll.c)
 7. Doubly linked list access: [doubly_linkedlist.c](https://github.com/ColonelBee/C-coding/blob/main/doubly_linkedlist.c)
+8. Using qsort to alphabetically sort words: [qsort_string.c](https://github.com/ColonelBee/C-coding/blob/main/qsort_string.c)
